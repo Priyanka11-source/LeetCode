@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Priyanka11-source/LeetCode/tree/master/0009-palindrome-number) |
 | [0258-add-digits](https://github.com/Priyanka11-source/LeetCode/tree/master/0258-add-digits) |
 | [0507-perfect-number](https://github.com/Priyanka11-source/LeetCode/tree/master/0507-perfect-number) |
+| [0633-sum-of-square-numbers](https://github.com/Priyanka11-source/LeetCode/tree/master/0633-sum-of-square-numbers) |
 | [2235-add-two-integers](https://github.com/Priyanka11-source/LeetCode/tree/master/2235-add-two-integers) |
 | [3099-harshad-number](https://github.com/Priyanka11-source/LeetCode/tree/master/3099-harshad-number) |
 ## Simulation
@@ -20,4 +21,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0258-add-digits](https://github.com/Priyanka11-source/LeetCode/tree/master/0258-add-digits) |
+## Two Pointers
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Priyanka11-source/LeetCode/tree/master/0633-sum-of-square-numbers) |
+## Binary Search
+|  |
+| ------- |
+| [0633-sum-of-square-numbers](https://github.com/Priyanka11-source/LeetCode/tree/master/0633-sum-of-square-numbers) |
 <!---LeetCode Topics End-->
